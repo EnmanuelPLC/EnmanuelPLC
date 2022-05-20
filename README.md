@@ -17,11 +17,11 @@
 <p align="left">
 <a href="https://dev.to/enmanuelplc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="enmanuelplc" height="30" width="40" /></a>
 <a href="https://twitter.com/enmanuelplc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enmanuelplc" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/124110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="124110" height="30" width="40" /></a>
-<a href="https://fb.com/yohan.gonzalezalmaguer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yohan.gonzalezalmaguer" height="30" width="40" /></a>
-<a href="https://instagram.com/zahirinatzuke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zahirinatzuke" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19161881/enmanuelplc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="124110" height="30" width="40" /></a>
+<a href="https://www.facebook.com/EnmanuelPLC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Enmanuel Ponce de Leon C" height="30" width="40" /></a>
+<a href="https://instagram.com/enmanuelplc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zahirinatzuke" height="30" width="40" /></a>
 <a href="https://medium.com/zahirinatzuke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="zahirinatzuke" height="30" width="40" /></a>
-<a href="https://discord.gg/ZahiriNatZuke#2938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZahiriNatZuke#2938" height="30" width="40" /></a>
+<a href="https://discord.gg/EnmanuelPLC#0870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZahiriNatZuke#2938" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,6 +33,6 @@
 <p></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zahirinatzuke&show_icons=true&locale=en&layout=compact&count_private=true&theme=algolia" alt="zahirinatzuke" /></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZahiriNatZuke&theme=algolia&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EnmanuelPLC&theme=algolia&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
-<a href="https://app.daily.dev/ZahiriNatZuke"><img src="https://api.daily.dev/devcards/0f37f6a73b244830ba354157634c81c7.png?r=f9s" width="400" alt="Yohan González Almaguer's Dev Card"/></a>
+<a href="https://app.daily.dev/ZahiriNatZuke"><img src="https://api.daily.dev/devcards/0f37f6a73b244830ba354157634c81c7.png?r=f9s" width="400" alt="Enmanuel Ponce's Dev Card"/></a>
