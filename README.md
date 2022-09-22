@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enmanuelplc&no-bg=true&no-frame=true&margin-w=15&margin-h=15&theme=darkhub" alt="enmanuelpc" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/EnmanuelPLC" target="blank"><img src="https://img.shields.io/twitter/follow/EnmanuelPLC?logo=twitter&style=for-the-badge" alt="EnmanuelPLC" /></a> </p>
+<p align="left"> <a href="https://twitter.com/EnmanuelPonced1" target="blank"><img src="https://img.shields.io/twitter/follow/EnmanuelPonced1?logo=twitter&style=for-the-badge" alt="EnmanuelPLC" /></a> </p>
 
 - 🌱 I’m currently learning **All i can learn**
 
