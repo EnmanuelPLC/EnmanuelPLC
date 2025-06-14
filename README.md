@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Enmanuel Ponce de Leon C.</h1>
-<h3 align="center">A passionate developer from Cuba</h3>
+<h1 align="center">👋 I'm Enmanuel Ponce.</h1>
+<h3 align="center">Senior Fullstack JS Developer, Devops and Team Leader</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enmanuelplc&label=Profile%20views&color=0e75b6&style=flat" alt="enmanuelplc" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **All i can learn**
 
-- 💬 Ask me about **React, NodeJS, Telegram Bot & Python**
+- 💬 Ask me about **React, NodeJS, NextJs, NestJs, AWS architecture**
 
 - 📫 How to reach me **enmanuelponcedeleon@gmail.com**
 
@@ -33,4 +33,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EnmanuelPLC&theme=algolia&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
-<a href="https://app.daily.dev/EnmanuelPLC"><img src="https://api.daily.dev/devcards/6037f5a62f3e4d73841a864a90f5afa0.png?r=ctd" width="400" alt="Enmanuel Ponce de León Castillos's Dev Card"/></a>
+<a href="https://app.daily.dev/EnmanuelPLC"><img src="https://api.daily.dev/devcards/6037f5a62f3e4d73841a864a90f5afa0.png?r=ctd" width="400" alt="Enmanuel Ponce Dev Card"/></a>
