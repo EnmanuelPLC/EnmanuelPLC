@@ -35,4 +35,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EnmanuelPLC&theme=algolia&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
-<a href="https://app.daily.dev/EnmanuelPLC"><img src="https://api.daily.dev/devcards/6037f5a62f3e4d73841a864a90f5afa0.png?r=ctd" width="400" alt="Enmanuel Ponce Dev Card"/></a>
+<a href="https://app.daily.dev/enmanuelplc"><img src="https://api.daily.dev/devcards/v2/NsWIfGgS27wCtKvcxzuVz.png?r=rzb" width="356" alt="Enmanuel Ponce de León Castillos's Dev Card"/></a>
