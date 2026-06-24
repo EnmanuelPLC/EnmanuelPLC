@@ -1,38 +1,172 @@
-<h1 align="center">👋 I'm Enmanuel Ponce.</h1>
-<h3 align="center">Senior Fullstack JS Developer, Devops and Team Leader</h3>
+# Hi, I'm Enmanuel Ponce
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enmanuelplc&label=Profile%20views&color=0e75b6&style=flat" alt="enmanuelplc" /> </p>
+### Senior Fullstack Engineer • AI Builder • DevOps Engineer • Technical Leader
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enmanuelplc&no-bg=true&no-frame=true&margin-w=15&margin-h=15&theme=darkhub" alt="enmanuelpc" /></a> </p>
+Software Engineer from Cuba, currently based in Serbia.
 
-<p align="left"> <a href="https://twitter.com/EnmanuelPonced1" target="blank"><img src="https://img.shields.io/twitter/follow/EnmanuelPonced1?logo=twitter&style=for-the-badge" alt="EnmanuelPLC" /></a> </p>
+I design and build scalable products end-to-end, from frontend experiences to backend systems, cloud infrastructure, CI/CD pipelines, and AI-powered solutions.
 
-- 🌱 I’m currently learning **All i can learn**
+Over the last few years I've worked across:
 
-- 💬 Ask me about **React, NodeJS, NextJs, NestJs, AWS architecture**
+* Fullstack JavaScript ecosystems
+* Large-scale web applications
+* Cloud infrastructure and DevOps
+* AI integrations and automation systems
+* Product architecture and technical leadership
 
-- 📫 How to reach me **enmanuelponcedeleon@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/enmanuelplc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enmanuelplc" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19161881/enmanuelplc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="124110" height="30" width="40" /></a>
-<a href="https://www.facebook.com/EnmanuelPLC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Enmanuel Ponce de Leon C" height="30" width="40" /></a>
-<a href="https://instagram.com/enmanuelplc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zahirinatzuke" height="30" width="40" /></a>
-<a href="https://discord.gg/EnmanuelPLC#0870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZahiriNatZuke#2938" height="30" width="40" /></a>
-</p>
+## What I Do
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Fullstack Development
 
+Building modern applications using:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahirinatzuke&show_icons=true&locale=en&layout=compact&count_private=true&theme=algolia" alt="enmanuelplc" /></p>
-<p></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enmanuelplc&show_icons=true&locale=en&layout=compact&count_private=true&theme=algolia" alt="enmanuelplc" /></p>
+* React
+* Next.js
+* Node.js
+* NestJS
+* TypeScript
+* PostgreSQL
+* Prisma
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EnmanuelPLC&theme=algolia&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+### Cloud & DevOps
 
-<a href="https://app.daily.dev/enmanuelplc"><img src="https://api.daily.dev/devcards/v2/NsWIfGgS27wCtKvcxzuVz.png?r=rzb" width="356" alt="Enmanuel Ponce de León Castillos's Dev Card"/></a>
+Designing and maintaining production infrastructure with:
+
+* AWS
+* Docker
+* Linux Servers
+* Nginx
+* CloudPanel
+* CI/CD Pipelines
+* Monitoring & Performance Optimization
+
+### AI & Automation
+
+Developing intelligent systems using:
+
+* OpenAI APIs
+* RAG Architectures
+* AI Agents
+* Workflow Automation
+* n8n
+* Vector Databases
+* Conversational Applications
+
+---
+
+## Featured Projects
+
+### CV LevelUp
+
+AI-powered resume builder platform.
+
+**Stack**
+
+* Next.js
+* NestJS
+* PostgreSQL
+* Prisma
+* Stripe
+* OpenAI
+* AWS
+
+### AI Marketing Platform
+
+Marketplace connecting advertisers and content creators through performance-based video promotion.
+
+**Features**
+
+* Campaign management
+* Video performance tracking
+* Automated payouts
+* AI-enhanced workflows
+
+### Enterprise Automation Solutions
+
+Custom automations combining:
+
+* AI Agents
+* RAG Systems
+* n8n
+* APIs
+* CRM Integrations
+
+---
+
+## Technical Expertise
+
+```text
+Frontend
+├── React
+├── Next.js
+├── TypeScript
+├── TailwindCSS
+└── Zustand
+
+Backend
+├── Node.js
+├── NestJS
+├── Express
+├── REST APIs
+├── WebSockets
+└── Authentication Systems
+
+Database
+├── PostgreSQL
+├── MySQL
+├── SQLite
+└── Prisma ORM
+
+Cloud & DevOps
+├── AWS
+├── Docker
+├── Linux
+├── Nginx
+├── CI/CD
+└── Server Management
+
+AI
+├── OpenAI
+├── RAG
+├── AI Agents
+├── Vector Search
+└── LLM Applications
+```
+
+---
+
+## Current Focus
+
+* AI Agents
+* Autonomous Workflows
+* Distributed Systems
+* Cloud Architecture
+* Product Leadership
+* Building scalable businesses powered by AI
+
+---
+
+## Philosophy
+
+> Software is not just code.
+>
+> The real challenge is designing systems that scale technically, economically, and operationally.
+
+---
+
+## Connect
+
+* LinkedIn
+* GitHub
+* X / Twitter
+* Email
+
+Always open to discussing:
+
+* Engineering Leadership
+* AI Systems
+* Startup Architecture
+* Cloud Infrastructure
+* Product Development
