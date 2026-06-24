@@ -159,9 +159,9 @@ AI
 ## Connect
 
 * LinkedIn
-* GitHub
+* Instagram
 * X / Twitter
-* Email
+* enmanuelponcedeleon@gmail.com
 
 Always open to discussing:
 
