@@ -156,12 +156,26 @@ AI
 
 ---
 
-## Connect
+## Connect With Me
 
-* LinkedIn
-* Instagram
-* X / Twitter
-* enmanuelponcedeleon@gmail.com
+<p align="left">
+  <a href="https://linkedin.com/in/enmanuelpdlc">
+    <img src="https://img.shields.io/badge/LinkedIn-Enmanuel%20Ponce-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://instagram.com/enmanuelplc">
+    <img src="https://img.shields.io/badge/Instagram-@enmanuelplc-E4405F?style=for-the-badge&logo=instagram" />
+  </a>
+
+  <a href="https://x.com/enmanuelponcedele1">
+    <img src="https://img.shields.io/badge/X-@enmanuelponcedele1-000000?style=for-the-badge&logo=x" />
+  </a>
+
+  <a href="mailto:enmanuelponcedeleon@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
 
 Always open to discussing:
 
