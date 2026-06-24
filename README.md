@@ -1,6 +1,7 @@
 # Hi, I'm Enmanuel Ponce
 
 ### Senior Fullstack Engineer • AI Builder • DevOps Engineer • Technical Leader
+React • Next.js • NestJS • AWS • OpenAI
 
 Software Engineer from Cuba, currently based in Serbia.
 
@@ -168,7 +169,7 @@ AI
   </a>
 
   <a href="https://x.com/enmanuelponcedele1">
-    <img src="https://img.shields.io/badge/X-@enmanuelponcedele1-000000?style=for-the-badge&logo=x" />
+    <img src="https://img.shields.io/badge/X-@enmanuelpdlc-000000?style=for-the-badge&logo=x" />
   </a>
 
   <a href="mailto:enmanuelponcedeleon@gmail.com">
